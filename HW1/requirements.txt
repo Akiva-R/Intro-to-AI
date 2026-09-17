@@ -1,0 +1,5 @@
+# Developed against Python 3.14.7
+# Direct dependencies only; pip resolves the rest.
+jupyter==1.1.1
+pandas==3.0.5
+tqdm==4.70.1
